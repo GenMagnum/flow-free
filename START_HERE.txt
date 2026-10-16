@@ -1,0 +1,39 @@
+FLOW FREE - PORTABLE EDITION
+
+No ChatGPT subscription, account, payment system, API key, paid backend or cloud-sync subscription is required by this edition. No personal records are included in these files.
+
+USE ON A LAPTOP
+1. Extract this ZIP.
+2. Open index.html in Chrome, Edge, Firefox or Safari with JavaScript enabled.
+3. Add your transactions. If your browser refuses local-file storage, use an HTTPS-hosted copy instead.
+4. Choose Download full backup regularly. Records are in your browser, NOT inside the app HTML file. Moving/renaming the app file or clearing browser data may change or erase access to its device storage. Keep backups.
+
+BRING YOUR EXISTING RECORDS
+1. Open your original Flow app while you can still access it.
+2. Choose Download full backup. In cloud mode, stay online until the backup is ready so receipt images are included.
+3. Open Flow Free, then Restore backup. This replaces records in that device's Flow Free ledger.
+4. Automatic cloud sync is not included. To move between devices, transfer the full JSON backup privately and restore it on the other device.
+
+IPHONE / ANDROID
+Local HTML files may open only in a preview app on a phone. A hosted HTTPS copy is the reliable installation path. This package is an installable web app, NOT an APK or an Apple App Store binary. Phone compatibility has not been tested here.
+
+Once hosted: Android - Chrome menu > Install app / Add to Home screen. iPhone - Safari > Share > Add to Home Screen, with Open as Web App if offered. Open the hosted app online once. The service worker then caches the public app files for offline use; personal records remain in device storage. Receipt OCR needs internet to download its free browser library/language files. Manual entry and attached receipt images have no paid OCR dependency.
+
+FREE PUBLIC LINK THROUGH GITHUB PAGES
+Current official documentation: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
+GitHub Pages is currently available for public repositories on GitHub Free, subject to GitHub's limits and terms. A hosting provider's free tier is not a promise of unlimited capacity or permanent pricing.
+
+1. Create a free GitHub account and a public repository, e.g. flow-free.
+2. Upload ONLY this package's app files to the repository root. Include index.html, sw.js, manifest.webmanifest and icons/. A .nojekyll marker is included.
+3. In repository Settings > Pages, choose Deploy from a branch, main, / (root), and Save.
+4. GitHub supplies the actual HTTPS public link. Open it once online and add it to the phone home screen.
+5. Never upload your finance backups, receipts, bank exports, or other private records to the public repository. Everyone can read public repository files.
+
+WHAT IS INCLUDED
+Personal / Business / Combined views; income sources; manual income and expense entries; optional free browser receipt OCR with review; transfers; expected payments; recurring templates; monthly budgets; search; charts; backup and CSV export; phone layouts.
+
+WHAT IS NOT INCLUDED
+Automatic cross-device sync, bank connections, push notifications, an APK/IPA, or guaranteed hosting. Existing ChatGPT-hosted Flow has not been moved or deleted. This is a separate portable edition with separate browser storage.
+
+SHARING
+You may share the ZIP or app files for others to use with their own device records. Include the third-party license notices. Do not share your personal backup files.
